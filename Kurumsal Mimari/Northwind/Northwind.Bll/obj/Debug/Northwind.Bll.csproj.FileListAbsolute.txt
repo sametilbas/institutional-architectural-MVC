@@ -1,0 +1,16 @@
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csprojAssemblyReference.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CoreCompileInputs.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\EntityFramework.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll.config
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\bin\Debug\EntityFramework.xml
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CopyComplete

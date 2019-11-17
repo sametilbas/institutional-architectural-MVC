@@ -1,0 +1,5 @@
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

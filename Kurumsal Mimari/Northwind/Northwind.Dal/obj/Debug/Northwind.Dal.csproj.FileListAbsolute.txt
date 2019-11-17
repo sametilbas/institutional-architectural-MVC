@@ -1,0 +1,14 @@
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.csprojAssemblyReference.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.csproj.CoreCompileInputs.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\Northwind.Dal.dll.config
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\EntityFramework.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\Northwind.Entities.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\Northwind.Entities.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\EntityFramework.xml
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Dal\obj\Debug\Northwind.Dal.csproj.CopyComplete

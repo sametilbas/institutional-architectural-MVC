@@ -1,0 +1,9 @@
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CoreCompileInputs.cache
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CopyComplete
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.dll
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.pdb
+E:\Mvc\Kurumsal Mimari\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csprojAssemblyReference.cache

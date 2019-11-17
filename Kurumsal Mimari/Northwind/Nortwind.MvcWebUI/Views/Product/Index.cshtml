@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Northwind.Entities.Product>
+@{
+    ViewBag.Title = "Index";
+}
+<br /><br /><br />
+<div>
+    <p>sdasdsad</p>
+    @foreach (var product in Model)
+    {
+    <p> @product.ProductName</p>
+    }
+</div>
+
